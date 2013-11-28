@@ -1,0 +1,18 @@
+FTPme Documentation
+
+FTPme is a Tracker add-on designed to let you quickly and easily send a selection of files or folders to another computer via the File Transfer Protocol.
+
+Features:
+	- Anonymous option
+	- Logging
+	- Progress indicator
+	- Automatically recurses into directories
+	- Remembers previous session's settings
+	- Password entry does not show password.
+
+How to Use:
+	You right-click on a file or group of files or a folder and go to 'Add-Ons,' 'FTPme'.  Then a little window will greet you with a few boxes.  Just enter the appropriate information to access the ftp server and the destination path for the files and hit 'Go'.  For Anonymous-FTP access, you can click the 'Anonymous' checkbox and FTPme will fill in the username and password for you.  'Keep Log' saves what ever output FTP happens to produce, so if a transfer did not complete, look in ~/FTPme.log for a hint.  As an added convenience, FTPme will also remember your settings from the previous session.
+
+Contact:
+	Tyson Bashore
+	dfunct@whamwhamwham.org

@@ -1,0 +1,57 @@
+FTPme History
+
+v1.1.1 -- Fri, Jul 7 2000; 2:44am EDT
+-------------------------
+Fixed a nasty bug that rendered the system useless
+	on uniprocessor machines.
+
+v1.1.0 -- Sat, Mar 4 2000;  7:00pm EST
+-------------------------
+A progress indicator that moves when
+	data is being sent.
+Fixed a few bugs.
+It's just better.
+
+v 1.0.0 -- Mon, Aug 9 1999; 12:30am EDT
+-------------------------
+Password hidden thanks to PassControl (see CREDITS).
+Cleaner code.
+
+v 0.9.5 ß -- Sun, Jul 18 1999; 11:20pm EDT
+-------------------------
+Now multithreaded.  (Allows the window to refresh
+properly during xfer.)
+
+v 0.9.1 ß -- Mon, Jul 12 1999; 4:41pm EDT
+-------------------------
+Supports paths with spaces.
+
+v 0.9.0 ß -- Sun, Jul 11 1999; 8:58pm EDT
+-------------------------
+Loads previous session's settings at startup.
+Quick anonymous FTP access provided by
+	the new "Anonymous" checkbox.
+
+v 0.5.0 ß -- Sat, Jul 10 1999; 1:17am EDT
+-------------------------
+Completely rewritten and it works.
+Finalized feature set.
+
+v 0.0.3 alpha -- Date 6/13/99 -- 2:00 AM
+-------------------------
+Undergoing rewrite
+Broke again
+
+v 0.0.2 alpha -- Date 6/11/99 -- 9:30 PM
+-------------------------
+First Working Program
+Extremely hard-coded
+
+v 0.0.1 alpha -- Date 6/11/99 -- 7:41 PM
+-------------------------
+Somewhat based on ZipMe.cpp (see CREDITS).
+
+v 0.0.0
+------------------------
+Blank slate 
+
